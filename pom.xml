@@ -5,7 +5,7 @@
 	<artifactId>employees-API</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employees-API Webapp</name>
+	<name>employees-API Maven Webapp </name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
